@@ -128,7 +128,7 @@ Let's display the error for the email input we've created:
 <span v-show="errors.has('email')">{{ errors.first('email') }}</span>
 ```
 
-### Documentation
+### Documentation for fun
 
 Read the [documentation and demos](https://baianat.github.io/vee-validate/).
 
